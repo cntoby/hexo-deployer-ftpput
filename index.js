@@ -1,0 +1,1 @@
+hexo.extend.deployer.register('ftpput', require('./lib/ftpput'));
